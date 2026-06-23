@@ -1,0 +1,122 @@
+{
+  "version": "2026-06-23T15:53:31Z",
+  "latest_count": 24,
+  "visible_cards": 4,
+  "layout": {
+    "cols": 2,
+    "rows": 2
+  },
+  "page_display_seconds": 20,
+  "fade_seconds": 1,
+  "card": {
+    "width": 640,
+    "height": 800,
+    "ratio": "4:5"
+  },
+  "atlas": {
+    "width": 2048,
+    "height": 2048,
+    "cols": 3,
+    "rows": 2,
+    "cards_per_atlas": 6,
+    "tile_padding": 8,
+    "padding_strategy": "edge_duplicate"
+  },
+  "atlases": [
+    {
+      "index": 0,
+      "filename": "atlas_20260623_155316_001.png",
+      "url": "atlases/atlas_20260623_155316_001.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 6
+    },
+    {
+      "index": 1,
+      "filename": "atlas_20260623_155316_002.png",
+      "url": "atlases/atlas_20260623_155316_002.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 1
+    }
+  ],
+  "cards": [
+    {
+      "post_id": "2067583232791748713",
+      "author_id": "2004848265058308096",
+      "author_username": "Aki147_1993",
+      "atlas_index": 0,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067456427401355672",
+      "author_id": "2057307723247816704",
+      "author_username": "noizukuvr",
+      "atlas_index": 0,
+      "tile_index": 1,
+      "x": 664,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067455941172502584",
+      "author_id": "1821212184422313986",
+      "author_username": "yashino009",
+      "atlas_index": 0,
+      "tile_index": 2,
+      "x": 1320,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067421357680546085",
+      "author_id": "1821417314421813248",
+      "author_username": "RhoF_Sugar",
+      "atlas_index": 0,
+      "tile_index": 3,
+      "x": 8,
+      "y": 824,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067367432054784200",
+      "author_id": "1564992996113756161",
+      "author_username": "kudagithune",
+      "atlas_index": 0,
+      "tile_index": 4,
+      "x": 664,
+      "y": 824,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067319745846882607",
+      "author_id": "1077215999403864066",
+      "author_username": "kkfishboss",
+      "atlas_index": 0,
+      "tile_index": 5,
+      "x": 1320,
+      "y": 824,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2067262670034887153",
+      "author_id": "757180727662260226",
+      "author_username": "syuutingbe",
+      "atlas_index": 1,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    }
+  ]
+}
