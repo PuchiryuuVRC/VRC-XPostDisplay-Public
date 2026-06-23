@@ -1,4 +1,7 @@
-meta	version	2026-06-23T16:33:24Z
+meta	version	2026-06-23T16:56:22Z
+meta	cache_bust	20260623_165621
+meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260623_165621
+meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260623_165621
 meta	latest_count	24
 meta	visible_cards	4
 meta	page_display_seconds	20
@@ -11,8 +14,8 @@ meta	atlas_cols	3
 meta	atlas_rows	2
 meta	cards_per_atlas	6
 meta	tile_padding	8
-atlas	0	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_163324_001.png	3	2	6
-atlas	1	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_163324_002.png	3	2	1
+atlas	0	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_001.png	3	2	6
+atlas	1	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_002.png	3	2	1
 card	2067583232791748713	2004848265058308096	Aki147_1993	0	0	8	8	640	800
 card	2067456427401355672	2057307723247816704	noizukuvr	0	1	664	8	640	800
 card	2067455941172502584	1821212184422313986	yashino009	0	2	1320	8	640	800

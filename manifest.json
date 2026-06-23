@@ -1,5 +1,10 @@
 {
-  "version": "2026-06-23T16:33:24Z",
+  "version": "2026-06-23T16:56:22Z",
+  "cache_bust": "20260623_165621",
+  "manifest_urls": {
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260623_165621",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260623_165621"
+  },
   "latest_count": 24,
   "visible_cards": 4,
   "layout": {
@@ -25,16 +30,16 @@
   "atlases": [
     {
       "index": 0,
-      "filename": "atlas_20260623_163324_001.png",
-      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_163324_001.png",
+      "filename": "atlas_20260623_165621_001.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_001.png",
       "cols": 3,
       "rows": 2,
       "count": 6
     },
     {
       "index": 1,
-      "filename": "atlas_20260623_163324_002.png",
-      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_163324_002.png",
+      "filename": "atlas_20260623_165621_002.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_002.png",
       "cols": 3,
       "rows": 2,
       "count": 1
