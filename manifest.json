@@ -1,9 +1,14 @@
 {
-  "version": "2026-06-23T16:56:22Z",
-  "cache_bust": "20260623_165621",
+  "version": "2026-06-23T22:41:49Z",
+  "cache_bust": "20260623_224148",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260623_165621",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260623_165621"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260623_224148",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260623_224148"
+  },
+  "vrchat_url_policy": {
+    "manifest_url": "inspector",
+    "atlas_urls": "inspector_fixed",
+    "manifest_atlas_urls": "compatibility_only"
   },
   "latest_count": 24,
   "visible_cards": 4,
@@ -30,19 +35,35 @@
   "atlases": [
     {
       "index": 0,
-      "filename": "atlas_20260623_165621_001.png",
-      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_001.png",
+      "filename": "atlas_001.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_001.png",
       "cols": 3,
       "rows": 2,
       "count": 6
     },
     {
       "index": 1,
-      "filename": "atlas_20260623_165621_002.png",
-      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_20260623_165621_002.png",
+      "filename": "atlas_002.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_002.png",
       "cols": 3,
       "rows": 2,
       "count": 1
+    },
+    {
+      "index": 2,
+      "filename": "atlas_003.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_003.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 0
+    },
+    {
+      "index": 3,
+      "filename": "atlas_004.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_004.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 0
     }
   ],
   "cards": [
