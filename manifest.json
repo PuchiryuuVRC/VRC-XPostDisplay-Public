@@ -1,9 +1,9 @@
 {
-  "version": "2026-06-25T13:00:06Z",
-  "cache_bust": "20260625_130004",
+  "version": "2026-06-25T14:03:51Z",
+  "cache_bust": "20260625_140348",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260625_130004",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260625_130004"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260625_140348",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260625_140348"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -145,9 +145,9 @@
       "height": 800
     },
     {
-      "post_id": "2064667218210922582",
-      "author_id": "2039304986916442112",
-      "author_username": "CK_OROR_VRC",
+      "post_id": "2067224305172443149",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
       "atlas_index": 1,
       "tile_index": 1,
       "x": 664,
@@ -156,9 +156,9 @@
       "height": 800
     },
     {
-      "post_id": "2062503298318717109",
-      "author_id": "2062199293302444032",
-      "author_username": "Tsukemono_n",
+      "post_id": "2064681352193266134",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
       "atlas_index": 1,
       "tile_index": 2,
       "x": 1320,
@@ -167,7 +167,7 @@
       "height": 800
     },
     {
-      "post_id": "2062477467756253517",
+      "post_id": "2064667218210922582",
       "author_id": "2039304986916442112",
       "author_username": "CK_OROR_VRC",
       "atlas_index": 1,
@@ -178,9 +178,9 @@
       "height": 800
     },
     {
-      "post_id": "2062308531647517177",
-      "author_id": "1821212184422313986",
-      "author_username": "yashino009",
+      "post_id": "2062503298318717109",
+      "author_id": "2062199293302444032",
+      "author_username": "Tsukemono_n",
       "atlas_index": 1,
       "tile_index": 4,
       "x": 664,
@@ -189,9 +189,9 @@
       "height": 800
     },
     {
-      "post_id": "2062204634417217876",
-      "author_id": "1709956282575446016",
-      "author_username": "Daigororin634",
+      "post_id": "2062477467756253517",
+      "author_id": "2039304986916442112",
+      "author_username": "CK_OROR_VRC",
       "atlas_index": 1,
       "tile_index": 5,
       "x": 1320,
@@ -200,12 +200,34 @@
       "height": 800
     },
     {
+      "post_id": "2062308531647517177",
+      "author_id": "1821212184422313986",
+      "author_username": "yashino009",
+      "atlas_index": 2,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2062204634417217876",
+      "author_id": "1709956282575446016",
+      "author_username": "Daigororin634",
+      "atlas_index": 2,
+      "tile_index": 1,
+      "x": 664,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
       "post_id": "2062199778373754921",
       "author_id": "1821417314421813248",
       "author_username": "RhoF_Sugar",
       "atlas_index": 2,
-      "tile_index": 0,
-      "x": 8,
+      "tile_index": 2,
+      "x": 1320,
       "y": 8,
       "width": 640,
       "height": 800
@@ -215,9 +237,9 @@
       "author_id": "1564992996113756161",
       "author_username": "kudagithune",
       "atlas_index": 2,
-      "tile_index": 1,
-      "x": 664,
-      "y": 8,
+      "tile_index": 3,
+      "x": 8,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -226,9 +248,9 @@
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
-      "tile_index": 2,
-      "x": 1320,
-      "y": 8,
+      "tile_index": 4,
+      "x": 664,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -237,8 +259,8 @@
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
-      "tile_index": 3,
-      "x": 8,
+      "tile_index": 5,
+      "x": 1320,
       "y": 824,
       "width": 640,
       "height": 800
@@ -247,28 +269,6 @@
       "post_id": "2062138923737133538",
       "author_id": "1438520834805534721",
       "author_username": "Puchiryuu_VRC",
-      "atlas_index": 2,
-      "tile_index": 4,
-      "x": 664,
-      "y": 824,
-      "width": 640,
-      "height": 800
-    },
-    {
-      "post_id": "2052915941286326327",
-      "author_id": "757180727662260226",
-      "author_username": "syuutingbe",
-      "atlas_index": 2,
-      "tile_index": 5,
-      "x": 1320,
-      "y": 824,
-      "width": 640,
-      "height": 800
-    },
-    {
-      "post_id": "2052292849916670235",
-      "author_id": "1954840475497893888",
-      "author_username": "RicalisVRC0530",
       "atlas_index": 3,
       "tile_index": 0,
       "x": 8,
@@ -277,9 +277,9 @@
       "height": 800
     },
     {
-      "post_id": "2052231910072725883",
-      "author_id": "1876656819294330880",
-      "author_username": "citr_vrc",
+      "post_id": "2059608553460289743",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
       "atlas_index": 3,
       "tile_index": 1,
       "x": 664,
@@ -288,9 +288,9 @@
       "height": 800
     },
     {
-      "post_id": "2052159923405140442",
-      "author_id": "1821212184422313986",
-      "author_username": "yashino009",
+      "post_id": "2057121745187057968",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
       "atlas_index": 3,
       "tile_index": 2,
       "x": 1320,
@@ -299,9 +299,9 @@
       "height": 800
     },
     {
-      "post_id": "2052148300162412819",
-      "author_id": "1028824261442424832",
-      "author_username": "nanami_illust",
+      "post_id": "2054534861386596585",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
       "atlas_index": 3,
       "tile_index": 3,
       "x": 8,
@@ -310,9 +310,9 @@
       "height": 800
     },
     {
-      "post_id": "2052062347326587290",
-      "author_id": "1821417314421813248",
-      "author_username": "RhoF_Sugar",
+      "post_id": "2052915941286326327",
+      "author_id": "757180727662260226",
+      "author_username": "syuutingbe",
       "atlas_index": 3,
       "tile_index": 4,
       "x": 664,
@@ -321,9 +321,9 @@
       "height": 800
     },
     {
-      "post_id": "2052041093626355870",
-      "author_id": "1075904666477756417",
-      "author_username": "yumi_feino",
+      "post_id": "2052292849916670235",
+      "author_id": "1954840475497893888",
+      "author_username": "RicalisVRC0530",
       "atlas_index": 3,
       "tile_index": 5,
       "x": 1320,
