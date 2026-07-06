@@ -19,7 +19,7 @@ jobs:
   deploy:
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: https://puchiryuuvrc.github.io/VRC-XPostDisplay-Public/
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -40,4 +40,41 @@ jobs:
 
       - name: Deploy to GitHub Pages
         id: deployment
+        continue-on-error: true
         uses: actions/deploy-pages@v5
+        with:
+          timeout: 900000
+          error_count: 30
+          reporting_interval: 10000
+
+      - name: Wait before Pages deployment retry
+        if: steps.deployment.outcome == 'failure'
+        run: sleep 60
+
+      - name: Retry deploy to GitHub Pages
+        id: deployment_retry
+        if: steps.deployment.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+        with:
+          timeout: 900000
+          error_count: 30
+          reporting_interval: 10000
+
+      - name: Wait before final Pages deployment retry
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
+        run: sleep 60
+
+      - name: Final retry deploy to GitHub Pages
+        id: deployment_final_retry
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v5
+        with:
+          timeout: 900000
+          error_count: 30
+          reporting_interval: 10000
+
+      - name: Fail if Pages deployment failed
+        if: steps.deployment.outcome == 'failure' && steps.deployment_retry.outcome == 'failure' && steps.deployment_final_retry.outcome == 'failure'
+        run: exit 1
