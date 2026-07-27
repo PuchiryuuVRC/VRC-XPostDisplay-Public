@@ -1,6 +1,6 @@
-manifest_tsv=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260726_192255
-manifest_json=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260726_192255
-cache_bust=20260726_192255
+manifest_tsv=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260727_194642
+manifest_json=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260727_194642
+cache_bust=20260727_194642
 atlas_001=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_001.png
 atlas_002=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_002.png
 atlas_003=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/atlases/atlas_003.png
