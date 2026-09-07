@@ -1,0 +1,105 @@
+{
+  "version": "2026-09-07T04:02:27Z",
+  "cache_bust": "20260907_040224",
+  "manifest_urls": {
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260907_040224",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260907_040224"
+  },
+  "vrchat_url_policy": {
+    "manifest_url": "inspector",
+    "atlas_urls": "inspector_fixed",
+    "manifest_atlas_urls": "compatibility_only"
+  },
+  "latest_count": 24,
+  "visible_cards": 4,
+  "layout": {
+    "cols": 4,
+    "rows": 1
+  },
+  "page_display_seconds": 20,
+  "fade_seconds": 1,
+  "card": {
+    "width": 640,
+    "height": 800,
+    "ratio": "4:5"
+  },
+  "atlas": {
+    "width": 2048,
+    "height": 2048,
+    "cols": 3,
+    "rows": 2,
+    "cards_per_atlas": 6,
+    "tile_padding": 8,
+    "padding_strategy": "edge_duplicate"
+  },
+  "atlases": [
+    {
+      "index": 0,
+      "filename": "atlas_001.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_001.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 3
+    },
+    {
+      "index": 1,
+      "filename": "atlas_002.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_002.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 0
+    },
+    {
+      "index": 2,
+      "filename": "atlas_003.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_003.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 0
+    },
+    {
+      "index": 3,
+      "filename": "atlas_004.png",
+      "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_004.png",
+      "cols": 3,
+      "rows": 2,
+      "count": 0
+    }
+  ],
+  "cards": [
+    {
+      "post_id": "2096357706357469279",
+      "author_id": "2068105769145499648",
+      "author_username": "yat0i_vrchat",
+      "atlas_index": 0,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2096427673392414845",
+      "author_id": "2853023953",
+      "author_username": "MMOgamesEnjoy",
+      "atlas_index": 0,
+      "tile_index": 1,
+      "x": 664,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2094765732722794874",
+      "author_id": "1898159374130200576",
+      "author_username": "VRCQD",
+      "atlas_index": 0,
+      "tile_index": 2,
+      "x": 1320,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    }
+  ],
+  "selection_generation": "0be2743a4dc14404a3b02d153c2a1c21"
+}

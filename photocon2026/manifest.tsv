@@ -1,0 +1,25 @@
+meta	version	2026-09-07T04:02:27Z
+meta	cache_bust	20260907_040224
+meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260907_040224
+meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260907_040224
+meta	atlas_url_source	inspector_fixed
+meta	manifest_atlas_urls	compatibility_only
+meta	latest_count	24
+meta	visible_cards	4
+meta	page_display_seconds	20
+meta	fade_seconds	1
+meta	card_width	640
+meta	card_height	800
+meta	atlas_width	2048
+meta	atlas_height	2048
+meta	atlas_cols	3
+meta	atlas_rows	2
+meta	cards_per_atlas	6
+meta	tile_padding	8
+atlas	0	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_001.png	3	2	3
+atlas	1	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_002.png	3	2	0
+atlas	2	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_003.png	3	2	0
+atlas	3	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_004.png	3	2	0
+card	2096357706357469279	2068105769145499648	yat0i_vrchat	0	0	8	8	640	800
+card	2096427673392414845	2853023953	MMOgamesEnjoy	0	1	664	8	640	800
+card	2094765732722794874	1898159374130200576	VRCQD	0	2	1320	8	640	800
