@@ -1,6 +1,6 @@
-manifest_tsv=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260908_230158
-manifest_json=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260908_230158
-cache_bust=20260908_230158
+manifest_tsv=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260909_101733
+manifest_json=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260909_101733
+cache_bust=20260909_101733
 atlas_001=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_001.png
 atlas_002=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_002.png
 atlas_003=https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_003.png
