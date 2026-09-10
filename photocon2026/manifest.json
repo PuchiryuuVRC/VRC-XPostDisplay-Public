@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-10T10:11:59Z",
-  "cache_bust": "20260910_101153",
+  "version": "2026-09-10T15:24:01Z",
+  "cache_bust": "20260910_152356",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_101153",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_101153"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_152356",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_152356"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -47,7 +47,7 @@
       "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_002.png",
       "cols": 3,
       "rows": 2,
-      "count": 5
+      "count": 6
     },
     {
       "index": 2,
@@ -55,7 +55,7 @@
       "url": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_003.png",
       "cols": 3,
       "rows": 2,
-      "count": 0
+      "count": 1
     },
     {
       "index": 3,
@@ -68,12 +68,34 @@
   ],
   "cards": [
     {
+      "post_id": "2098047141084303634",
+      "author_id": "2009776055427706880",
+      "author_username": "HakuBi_vr",
+      "atlas_index": 0,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
+      "post_id": "2098050677767631114",
+      "author_id": "4257432372",
+      "author_username": "paissa_max",
+      "atlas_index": 0,
+      "tile_index": 1,
+      "x": 664,
+      "y": 8,
+      "width": 640,
+      "height": 800
+    },
+    {
       "post_id": "2097814811656519864",
       "author_id": "1733084347039879168",
       "author_username": "RinTracy_VRC",
       "atlas_index": 0,
-      "tile_index": 0,
-      "x": 8,
+      "tile_index": 2,
+      "x": 1320,
       "y": 8,
       "width": 640,
       "height": 800
@@ -83,9 +105,9 @@
       "author_id": "2010564828633628672",
       "author_username": "YUZUK1_VRC",
       "atlas_index": 0,
-      "tile_index": 1,
-      "x": 664,
-      "y": 8,
+      "tile_index": 3,
+      "x": 8,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -94,9 +116,9 @@
       "author_id": "2087700376980164608",
       "author_username": "MifuyuVrc",
       "atlas_index": 0,
-      "tile_index": 2,
-      "x": 1320,
-      "y": 8,
+      "tile_index": 4,
+      "x": 664,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -105,8 +127,8 @@
       "author_id": "996965423278014466",
       "author_username": "enjoy_yomi",
       "atlas_index": 0,
-      "tile_index": 3,
-      "x": 8,
+      "tile_index": 5,
+      "x": 1320,
       "y": 824,
       "width": 640,
       "height": 800
@@ -115,10 +137,10 @@
       "post_id": "2097008914000921071",
       "author_id": "2853023953",
       "author_username": "MMOgamesEnjoy",
-      "atlas_index": 0,
-      "tile_index": 4,
-      "x": 664,
-      "y": 824,
+      "atlas_index": 1,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
       "width": 640,
       "height": 800
     },
@@ -126,10 +148,10 @@
       "post_id": "2096968098834534429",
       "author_id": "1438520834805534721",
       "author_username": "Puchiryuu_VRC",
-      "atlas_index": 0,
-      "tile_index": 5,
-      "x": 1320,
-      "y": 824,
+      "atlas_index": 1,
+      "tile_index": 1,
+      "x": 664,
+      "y": 8,
       "width": 640,
       "height": 800
     },
@@ -138,8 +160,8 @@
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 1,
-      "tile_index": 0,
-      "x": 8,
+      "tile_index": 2,
+      "x": 1320,
       "y": 8,
       "width": 640,
       "height": 800
@@ -149,9 +171,9 @@
       "author_id": "2068105769145499648",
       "author_username": "yat0i_vrchat",
       "atlas_index": 1,
-      "tile_index": 1,
-      "x": 664,
-      "y": 8,
+      "tile_index": 3,
+      "x": 8,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -160,9 +182,9 @@
       "author_id": "1733084347039879168",
       "author_username": "RinTracy_VRC",
       "atlas_index": 1,
-      "tile_index": 2,
-      "x": 1320,
-      "y": 8,
+      "tile_index": 4,
+      "x": 664,
+      "y": 824,
       "width": 640,
       "height": 800
     },
@@ -171,8 +193,8 @@
       "author_id": "2853023953",
       "author_username": "MMOgamesEnjoy",
       "atlas_index": 1,
-      "tile_index": 3,
-      "x": 8,
+      "tile_index": 5,
+      "x": 1320,
       "y": 824,
       "width": 640,
       "height": 800
@@ -181,13 +203,13 @@
       "post_id": "2094765732722794874",
       "author_id": "1898159374130200576",
       "author_username": "VRCQD",
-      "atlas_index": 1,
-      "tile_index": 4,
-      "x": 664,
-      "y": 824,
+      "atlas_index": 2,
+      "tile_index": 0,
+      "x": 8,
+      "y": 8,
       "width": 640,
       "height": 800
     }
   ],
-  "selection_generation": "4bfedcd0a58a4cde9170d13282d265f6"
+  "selection_generation": "ffb5f8b61e5242cbb5f3267ba769b1fd"
 }
