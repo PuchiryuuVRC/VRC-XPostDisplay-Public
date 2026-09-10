@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-10T15:24:01Z",
-  "cache_bust": "20260910_152356",
+  "version": "2026-09-10T20:47:45Z",
+  "cache_bust": "20260910_204739",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_152356",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_152356"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_204739",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_204739"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -68,9 +68,9 @@
   ],
   "cards": [
     {
-      "post_id": "2098047141084303634",
-      "author_id": "2009776055427706880",
-      "author_username": "HakuBi_vr",
+      "post_id": "2098050677767631114",
+      "author_id": "4257432372",
+      "author_username": "paissa_max",
       "atlas_index": 0,
       "tile_index": 0,
       "x": 8,
@@ -79,9 +79,9 @@
       "height": 800
     },
     {
-      "post_id": "2098050677767631114",
-      "author_id": "4257432372",
-      "author_username": "paissa_max",
+      "post_id": "2098047141084303634",
+      "author_id": "2009776055427706880",
+      "author_username": "HakuBi_vr",
       "atlas_index": 0,
       "tile_index": 1,
       "x": 664,
@@ -134,9 +134,9 @@
       "height": 800
     },
     {
-      "post_id": "2097008914000921071",
-      "author_id": "2853023953",
-      "author_username": "MMOgamesEnjoy",
+      "post_id": "2096968098834534429",
+      "author_id": "1438520834805534721",
+      "author_username": "Puchiryuu_VRC",
       "atlas_index": 1,
       "tile_index": 0,
       "x": 8,
@@ -145,9 +145,9 @@
       "height": 800
     },
     {
-      "post_id": "2096968098834534429",
-      "author_id": "1438520834805534721",
-      "author_username": "Puchiryuu_VRC",
+      "post_id": "2097008914000921071",
+      "author_id": "2853023953",
+      "author_username": "MMOgamesEnjoy",
       "atlas_index": 1,
       "tile_index": 1,
       "x": 664,
@@ -211,5 +211,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "ffb5f8b61e5242cbb5f3267ba769b1fd"
+  "selection_generation": "2f6c9f1b59114a14ad78a2ff441a491f"
 }

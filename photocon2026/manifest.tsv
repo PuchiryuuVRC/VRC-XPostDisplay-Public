@@ -1,7 +1,7 @@
-meta	version	2026-09-10T15:24:01Z
-meta	cache_bust	20260910_152356
-meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_152356
-meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_152356
+meta	version	2026-09-10T20:47:45Z
+meta	cache_bust	20260910_204739
+meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_204739
+meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_204739
 meta	atlas_url_source	inspector_fixed
 meta	manifest_atlas_urls	compatibility_only
 meta	latest_count	24
@@ -20,14 +20,14 @@ atlas	0	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atla
 atlas	1	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_002.png	3	2	6
 atlas	2	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_003.png	3	2	1
 atlas	3	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/atlases/atlas_004.png	3	2	0
-card	2098047141084303634	2009776055427706880	HakuBi_vr	0	0	8	8	640	800
-card	2098050677767631114	4257432372	paissa_max	0	1	664	8	640	800
+card	2098050677767631114	4257432372	paissa_max	0	0	8	8	640	800
+card	2098047141084303634	2009776055427706880	HakuBi_vr	0	1	664	8	640	800
 card	2097814811656519864	1733084347039879168	RinTracy_VRC	0	2	1320	8	640	800
 card	2097666546009264430	2010564828633628672	YUZUK1_VRC	0	3	8	824	640	800
 card	2097540424454086669	2087700376980164608	MifuyuVrc	0	4	664	824	640	800
 card	2097450779867275316	996965423278014466	enjoy_yomi	0	5	1320	824	640	800
-card	2097008914000921071	2853023953	MMOgamesEnjoy	1	0	8	8	640	800
-card	2096968098834534429	1438520834805534721	Puchiryuu_VRC	1	1	664	8	640	800
+card	2096968098834534429	1438520834805534721	Puchiryuu_VRC	1	0	8	8	640	800
+card	2097008914000921071	2853023953	MMOgamesEnjoy	1	1	664	8	640	800
 card	2096972943402402013	757180727662260226	syuutingbe	1	2	1320	8	640	800
 card	2096357706357469279	2068105769145499648	yat0i_vrchat	1	3	8	824	640	800
 card	2097401352968458613	1733084347039879168	RinTracy_VRC	1	4	664	824	640	800
