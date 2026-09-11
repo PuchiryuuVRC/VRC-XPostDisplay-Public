@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-10T20:47:45Z",
-  "cache_bust": "20260910_204739",
+  "version": "2026-09-11T10:09:32Z",
+  "cache_bust": "20260911_100927",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260910_204739",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260910_204739"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260911_100927",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260911_100927"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -211,5 +211,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "2f6c9f1b59114a14ad78a2ff441a491f"
+  "selection_generation": "7916e3d4c14d434e9b032b7ff213594e"
 }
