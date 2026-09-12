@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-12T09:44:25Z",
-  "cache_bust": "20260912_094420",
+  "version": "2026-09-12T14:33:05Z",
+  "cache_bust": "20260912_143300",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260912_094420",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260912_094420"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260912_143300",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260912_143300"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -167,9 +167,9 @@
       "height": 800
     },
     {
-      "post_id": "2097008914000921071",
-      "author_id": "2853023953",
-      "author_username": "MMOgamesEnjoy",
+      "post_id": "2096972943402402013",
+      "author_id": "757180727662260226",
+      "author_username": "syuutingbe",
       "atlas_index": 1,
       "tile_index": 3,
       "x": 8,
@@ -178,9 +178,9 @@
       "height": 800
     },
     {
-      "post_id": "2096972943402402013",
-      "author_id": "757180727662260226",
-      "author_username": "syuutingbe",
+      "post_id": "2097008914000921071",
+      "author_id": "2853023953",
+      "author_username": "MMOgamesEnjoy",
       "atlas_index": 1,
       "tile_index": 4,
       "x": 664,
@@ -233,5 +233,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "8a954c124645414bbc7f5a525bd83b54"
+  "selection_generation": "3cdaec774c4d4774b0b4fa5406a1e1e3"
 }
