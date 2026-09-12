@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-12T14:33:05Z",
-  "cache_bust": "20260912_143300",
+  "version": "2026-09-12T20:29:38Z",
+  "cache_bust": "20260912_202932",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260912_143300",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260912_143300"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260912_202932",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260912_202932"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -90,9 +90,9 @@
       "height": 800
     },
     {
-      "post_id": "2098047141084303634",
-      "author_id": "2009776055427706880",
-      "author_username": "HakuBi_vr",
+      "post_id": "2098050677767631114",
+      "author_id": "4257432372",
+      "author_username": "paissa_max",
       "atlas_index": 0,
       "tile_index": 2,
       "x": 1320,
@@ -101,9 +101,9 @@
       "height": 800
     },
     {
-      "post_id": "2098050677767631114",
-      "author_id": "4257432372",
-      "author_username": "paissa_max",
+      "post_id": "2098047141084303634",
+      "author_id": "2009776055427706880",
+      "author_username": "HakuBi_vr",
       "atlas_index": 0,
       "tile_index": 3,
       "x": 8,
@@ -156,9 +156,9 @@
       "height": 800
     },
     {
-      "post_id": "2096968098834534429",
-      "author_id": "1438520834805534721",
-      "author_username": "Puchiryuu_VRC",
+      "post_id": "2096972943402402013",
+      "author_id": "757180727662260226",
+      "author_username": "syuutingbe",
       "atlas_index": 1,
       "tile_index": 2,
       "x": 1320,
@@ -167,9 +167,9 @@
       "height": 800
     },
     {
-      "post_id": "2096972943402402013",
-      "author_id": "757180727662260226",
-      "author_username": "syuutingbe",
+      "post_id": "2096968098834534429",
+      "author_id": "1438520834805534721",
+      "author_username": "Puchiryuu_VRC",
       "atlas_index": 1,
       "tile_index": 3,
       "x": 8,
@@ -233,5 +233,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "3cdaec774c4d4774b0b4fa5406a1e1e3"
+  "selection_generation": "9e63efeb9e5e46d781d00141b99bba78"
 }
