@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-13T10:45:15Z",
-  "cache_bust": "20260913_104507",
+  "version": "2026-09-13T15:13:36Z",
+  "cache_bust": "20260913_151331",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260913_104507",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260913_104507"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.tsv?v=20260913_151331",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/manifest.json?v=20260913_151331"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
