@@ -1,7 +1,7 @@
-meta	version	2026-09-18T15:22:13Z
-meta	cache_bust	20260918_152206
-meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260918_152206
-meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260918_152206
+meta	version	2026-09-18T20:50:21Z
+meta	cache_bust	20260918_205013
+meta	manifest_tsv_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260918_205013
+meta	manifest_json_url	https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260918_205013
 meta	atlas_url_source	inspector_fixed
 meta	manifest_atlas_urls	compatibility_only
 meta	latest_count	24
@@ -41,6 +41,6 @@ card	2099491908901048716	1075904666477756417	yumi_feino	2	5	1320	824	640	800
 card	2097814811656519864	1733084347039879168	RinTracy_VRC	3	0	8	8	640	800
 card	2096427673392414845	2853023953	MMOgamesEnjoy	3	1	664	8	640	800
 card	2099502061251703263	1075904666477756417	yumi_feino	3	2	1320	8	640	800
-card	2096972943402402013	757180727662260226	syuutingbe	3	3	8	824	640	800
-card	2097401352968458613	1733084347039879168	RinTracy_VRC	3	4	664	824	640	800
+card	2097401352968458613	1733084347039879168	RinTracy_VRC	3	3	8	824	640	800
+card	2096972943402402013	757180727662260226	syuutingbe	3	4	664	824	640	800
 card	2099491237023961414	1075904666477756417	yumi_feino	3	5	1320	824	640	800
