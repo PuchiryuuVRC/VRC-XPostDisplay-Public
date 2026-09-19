@@ -1,9 +1,9 @@
 {
-  "version": "2026-09-18T20:50:21Z",
-  "cache_bust": "20260918_205013",
+  "version": "2026-09-19T09:53:38Z",
+  "cache_bust": "20260919_095331",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260918_205013",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260918_205013"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20260919_095331",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20260919_095331"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -68,7 +68,7 @@
   ],
   "cards": [
     {
-      "post_id": "2100948751078842553",
+      "post_id": "2100946945024077957",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 0,
@@ -112,7 +112,7 @@
       "height": 800
     },
     {
-      "post_id": "2099502137634111499",
+      "post_id": "2099502061251703263",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 0,
@@ -200,9 +200,9 @@
       "height": 800
     },
     {
-      "post_id": "2097008914000921071",
-      "author_id": "2853023953",
-      "author_username": "MMOgamesEnjoy",
+      "post_id": "2096968098834534429",
+      "author_id": "1438520834805534721",
+      "author_username": "Puchiryuu_VRC",
       "atlas_index": 2,
       "tile_index": 0,
       "x": 8,
@@ -211,9 +211,9 @@
       "height": 800
     },
     {
-      "post_id": "2096968098834534429",
-      "author_id": "1438520834805534721",
-      "author_username": "Puchiryuu_VRC",
+      "post_id": "2097008914000921071",
+      "author_id": "2853023953",
+      "author_username": "MMOgamesEnjoy",
       "atlas_index": 2,
       "tile_index": 1,
       "x": 664,
@@ -233,7 +233,7 @@
       "height": 800
     },
     {
-      "post_id": "2100946945024077957",
+      "post_id": "2100948751078842553",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 2,
@@ -255,7 +255,7 @@
       "height": 800
     },
     {
-      "post_id": "2099491908901048716",
+      "post_id": "2099502137634111499",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
@@ -288,7 +288,7 @@
       "height": 800
     },
     {
-      "post_id": "2099502061251703263",
+      "post_id": "2099491908901048716",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 3,
@@ -299,9 +299,9 @@
       "height": 800
     },
     {
-      "post_id": "2097401352968458613",
-      "author_id": "1733084347039879168",
-      "author_username": "RinTracy_VRC",
+      "post_id": "2096972943402402013",
+      "author_id": "757180727662260226",
+      "author_username": "syuutingbe",
       "atlas_index": 3,
       "tile_index": 3,
       "x": 8,
@@ -310,9 +310,9 @@
       "height": 800
     },
     {
-      "post_id": "2096972943402402013",
-      "author_id": "757180727662260226",
-      "author_username": "syuutingbe",
+      "post_id": "2097401352968458613",
+      "author_id": "1733084347039879168",
+      "author_username": "RinTracy_VRC",
       "atlas_index": 3,
       "tile_index": 4,
       "x": 664,
@@ -332,5 +332,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "352b9494c28a4c819c80fee18a1b9453"
+  "selection_generation": "a3f08b6a877d4cd3bcbbcca6f52b19b1"
 }
