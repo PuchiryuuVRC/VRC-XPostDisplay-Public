@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-20T21:32:37Z",
-  "cache_bust": "20261020_213231",
+  "version": "2026-10-21T21:34:53Z",
+  "cache_bust": "20261021_213445",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261020_213231",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261020_213231"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261021_213445",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261021_213445"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -90,7 +90,7 @@
       "height": 800
     },
     {
-      "post_id": "2101868983070920792",
+      "post_id": "2099502137634111499",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 0,
@@ -101,7 +101,7 @@
       "height": 800
     },
     {
-      "post_id": "2101689775262781758",
+      "post_id": "2101686316887122173",
       "author_id": "253580006",
       "author_username": "Yin510",
       "atlas_index": 0,
@@ -112,7 +112,7 @@
       "height": 800
     },
     {
-      "post_id": "2096972943402402013",
+      "post_id": "2100946945024077957",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 0,
@@ -123,9 +123,9 @@
       "height": 800
     },
     {
-      "post_id": "2100381891912441963",
-      "author_id": "2004848265058308096",
-      "author_username": "Aki147_1993",
+      "post_id": "2097401352968458613",
+      "author_id": "1733084347039879168",
+      "author_username": "RinTracy_VRC",
       "atlas_index": 0,
       "tile_index": 5,
       "x": 1320,
@@ -134,9 +134,9 @@
       "height": 800
     },
     {
-      "post_id": "2097814811656519864",
-      "author_id": "1733084347039879168",
-      "author_username": "RinTracy_VRC",
+      "post_id": "2100381891912441963",
+      "author_id": "2004848265058308096",
+      "author_username": "Aki147_1993",
       "atlas_index": 1,
       "tile_index": 0,
       "x": 8,
@@ -255,7 +255,7 @@
       "height": 800
     },
     {
-      "post_id": "2099491908901048716",
+      "post_id": "2099502061251703263",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
@@ -288,7 +288,7 @@
       "height": 800
     },
     {
-      "post_id": "2101535099888255062",
+      "post_id": "2101537019398967394",
       "author_id": "1876656819294330880",
       "author_username": "citr_vrc",
       "atlas_index": 3,
@@ -299,7 +299,7 @@
       "height": 800
     },
     {
-      "post_id": "2100948751078842553",
+      "post_id": "2096972943402402013",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 3,
@@ -310,7 +310,7 @@
       "height": 800
     },
     {
-      "post_id": "2099989136547713444",
+      "post_id": "2097814811656519864",
       "author_id": "1733084347039879168",
       "author_username": "RinTracy_VRC",
       "atlas_index": 3,
@@ -332,5 +332,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "4fe4fd465bd846dab4cce3385da753a0"
+  "selection_generation": "37740892b4df4c98a19d15e2cca0fb7c"
 }
