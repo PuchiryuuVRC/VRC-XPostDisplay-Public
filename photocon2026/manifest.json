@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-21T21:34:53Z",
-  "cache_bust": "20261021_213445",
+  "version": "2026-10-22T21:29:47Z",
+  "cache_bust": "20261022_212939",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261021_213445",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261021_213445"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261022_212939",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261022_212939"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -101,7 +101,7 @@
       "height": 800
     },
     {
-      "post_id": "2101686316887122173",
+      "post_id": "2101689775262781758",
       "author_id": "253580006",
       "author_username": "Yin510",
       "atlas_index": 0,
@@ -123,9 +123,9 @@
       "height": 800
     },
     {
-      "post_id": "2097401352968458613",
-      "author_id": "1733084347039879168",
-      "author_username": "RinTracy_VRC",
+      "post_id": "2100381891912441963",
+      "author_id": "2004848265058308096",
+      "author_username": "Aki147_1993",
       "atlas_index": 0,
       "tile_index": 5,
       "x": 1320,
@@ -134,9 +134,9 @@
       "height": 800
     },
     {
-      "post_id": "2100381891912441963",
-      "author_id": "2004848265058308096",
-      "author_username": "Aki147_1993",
+      "post_id": "2099989136547713444",
+      "author_id": "1733084347039879168",
+      "author_username": "RinTracy_VRC",
       "atlas_index": 1,
       "tile_index": 0,
       "x": 8,
@@ -156,7 +156,7 @@
       "height": 800
     },
     {
-      "post_id": "2096427673392414845",
+      "post_id": "2097008914000921071",
       "author_id": "2853023953",
       "author_username": "MMOgamesEnjoy",
       "atlas_index": 1,
@@ -255,7 +255,7 @@
       "height": 800
     },
     {
-      "post_id": "2099502061251703263",
+      "post_id": "2099491908901048716",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
@@ -266,7 +266,7 @@
       "height": 800
     },
     {
-      "post_id": "2101277230961995971",
+      "post_id": "2101686316887122173",
       "author_id": "253580006",
       "author_username": "Yin510",
       "atlas_index": 3,
@@ -310,7 +310,7 @@
       "height": 800
     },
     {
-      "post_id": "2097814811656519864",
+      "post_id": "2097401352968458613",
       "author_id": "1733084347039879168",
       "author_username": "RinTracy_VRC",
       "atlas_index": 3,
@@ -332,5 +332,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "37740892b4df4c98a19d15e2cca0fb7c"
+  "selection_generation": "8093ed81fd594eafac51f0a29835e3d6"
 }
