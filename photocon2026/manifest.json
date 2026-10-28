@@ -1,9 +1,9 @@
 {
-  "version": "2026-10-27T22:06:58Z",
-  "cache_bust": "20261027_220652",
+  "version": "2026-10-28T22:31:00Z",
+  "cache_bust": "20261028_223052",
   "manifest_urls": {
-    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261027_220652",
-    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261027_220652"
+    "tsv": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.tsv?v=20261028_223052",
+    "json": "https://PuchiryuuVRC.github.io/VRC-XPostDisplay-Public/photocon2026/manifest.json?v=20261028_223052"
   },
   "vrchat_url_policy": {
     "manifest_url": "inspector",
@@ -79,7 +79,7 @@
       "height": 800
     },
     {
-      "post_id": "2099491908901048716",
+      "post_id": "2099491237023961414",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 0,
@@ -112,7 +112,7 @@
       "height": 800
     },
     {
-      "post_id": "2100948751078842553",
+      "post_id": "2100946945024077957",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 0,
@@ -156,7 +156,7 @@
       "height": 800
     },
     {
-      "post_id": "2096427673392414845",
+      "post_id": "2097008914000921071",
       "author_id": "2853023953",
       "author_username": "MMOgamesEnjoy",
       "atlas_index": 1,
@@ -255,7 +255,7 @@
       "height": 800
     },
     {
-      "post_id": "2101868983070920792",
+      "post_id": "2099502137634111499",
       "author_id": "1075904666477756417",
       "author_username": "yumi_feino",
       "atlas_index": 2,
@@ -266,7 +266,7 @@
       "height": 800
     },
     {
-      "post_id": "2101686316887122173",
+      "post_id": "2101277230961995971",
       "author_id": "253580006",
       "author_username": "Yin510",
       "atlas_index": 3,
@@ -299,7 +299,7 @@
       "height": 800
     },
     {
-      "post_id": "2100946945024077957",
+      "post_id": "2100948751078842553",
       "author_id": "757180727662260226",
       "author_username": "syuutingbe",
       "atlas_index": 3,
@@ -310,7 +310,7 @@
       "height": 800
     },
     {
-      "post_id": "2097401352968458613",
+      "post_id": "2097814811656519864",
       "author_id": "1733084347039879168",
       "author_username": "RinTracy_VRC",
       "atlas_index": 3,
@@ -321,9 +321,9 @@
       "height": 800
     },
     {
-      "post_id": "2097008914000921071",
-      "author_id": "2853023953",
-      "author_username": "MMOgamesEnjoy",
+      "post_id": "2099661918869102637",
+      "author_id": "2004848265058308096",
+      "author_username": "Aki147_1993",
       "atlas_index": 3,
       "tile_index": 5,
       "x": 1320,
@@ -332,5 +332,5 @@
       "height": 800
     }
   ],
-  "selection_generation": "a8533c73d54d4c1c9f0a5ba0b30787ec"
+  "selection_generation": "c06833b259344102b90a50ecfbc719a8"
 }
